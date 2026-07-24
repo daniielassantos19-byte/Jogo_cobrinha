@@ -32,23 +32,26 @@ Bash
 
 cd snake-game
 Abra o arquivo index.html em qualquer navegador moderno (como Google Chrome ou Firefox).
-📂 Estrutura do projeto
+## 📂 Estrutura do projeto
 index.html: Arquivo principal do jogo.
 README.md: Este arquivo, com informações sobre o projeto.
-🖼️ Captura de tela
+
+## 🖼️ Captura de tela
 ![Snake Game](https://via.placeholder.com/600x400.png?text=Captura+de+Tela+do+Jogo)
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 HTML5: Estrutura do jogo.
 CSS3: Estilização do layout e elementos visuais.
 JavaScript: Lógica do jogo e interatividade.
-📌 Funcionalidades
+
+## 📌 Funcionalidades
 🎨 Fundo com nuvens.
 🍎 Comida estilizada como maçã.
 🐍 Cobra com visual realista.
 🏆 Sistema de pontuação e recorde.
 💥 Detecção de colisão com bordas e corpo.
-📖 Licença
+
+## 📖 Licença
 Este projeto é de código aberto e está disponível sob a licença MIT. 📜
 
 Feito com ❤️ por Daniela Santos. 😊

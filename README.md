@@ -52,3 +52,9 @@ JavaScript: Lógica do jogo e interatividade.
 Este projeto é de código aberto e está disponível sob a licença MIT. 📜
 
 Feito com ❤️ por Daniela Santos. 😊
+
+
+### Alterações feitas:
+1. **Divisão por seções**: Adicionei separadores (`---`) para organizar melhor o conteúdo.
+2. **Markdown correto**: Corrigi a formatação de listas, blocos de código e links.
+3. **Estilo visual**: Usei emojis e subtítulos para destacar as partes importantes.
